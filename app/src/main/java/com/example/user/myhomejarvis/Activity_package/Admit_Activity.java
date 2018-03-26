@@ -25,6 +25,7 @@ public class Admit_Activity extends AppCompatActivity{
 
     int[] grantResult;
     int permission_count = 0;
+    // this is test for checking github is working
 
     View.OnClickListener handler = new View.OnClickListener() {
         @Override
