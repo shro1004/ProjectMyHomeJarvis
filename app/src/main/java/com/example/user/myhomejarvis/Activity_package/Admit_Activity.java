@@ -25,6 +25,9 @@ public class Admit_Activity extends AppCompatActivity{
 
     int[] grantResult;
     int permission_count = 0;
+    
+    
+    // String test = gangangagnagnagnagnagnagnagnagnanagnagnagnagn;
 
     View.OnClickListener handler = new View.OnClickListener() {
         @Override
